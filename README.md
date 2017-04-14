@@ -22,3 +22,5 @@ World Server: enable SOAP module
 More information and other items: ZoneWoW.com
 
 Desch
+
+Ediciones uso de la ultima version trinitycore rev59 a rev62
